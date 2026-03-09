@@ -7,3 +7,10 @@ string Status_lulus(float r){
     else
         return "Gagal";
 }
+
+int main(){
+    cout <<"Masukan nilai Bahasa Inggris = ";
+    cin >> nilBI;
+    cout << "Masukan nilai Matematika = ";
+    cin >> nilMT;
+}
