@@ -9,6 +9,7 @@ string Status_lulus(float r){
 }
 
 int main(){
+    string status;
     cout <<"Masukan nilai Bahasa Inggris = ";
     cin >> nilBI;
     cout << "Masukan nilai Matematika = ";
